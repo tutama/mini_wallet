@@ -1,0 +1,8 @@
+
+TOKEN_SECRET=S3cR3T
+
+DB_HOST=localhost
+DB_USER=root
+DB_PASSWORD=password
+DB_NAME=mini_wallet
+DB_PORT=3306
